@@ -6,3 +6,6 @@ for i in range(line01):
 	print(i)
 
 print('blabla')
+
+master = 04
+print(master, "fourth commit")
