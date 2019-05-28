@@ -6,3 +6,6 @@ for i in range(line01):
 	print(i)
 
 print('blabla')
+
+branch01 = 2
+print(branch01)
