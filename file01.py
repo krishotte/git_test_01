@@ -4,3 +4,5 @@ line03 = 25
 
 for i in range(line01):
 	print(i)
+
+print('blabla')
